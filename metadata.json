@@ -1,0 +1,6 @@
+{
+  "name": "Anuj Ugale | AI Portfolio & Interactive Screen Workstations",
+  "description": "Developer portfolio featuring interactive workstations: RetiPath-AI (Ophthalmology AI Triage), NeuraFace Studio (Biometric CV), and OhMyPoly (Attendance & Timetable).",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
